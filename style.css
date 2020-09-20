@@ -239,7 +239,7 @@
   padding-left: 597px;
   padding-top: 199px;
   padding-bottom: 220px;
-  background-image: url(/dist/img/pexels-christina-morillo-11816751.png);
+  background-image: url(assets//img/pexels-christina-morillo-11816751.png);
   background-repeat: no-repeat;
   background-size: cover; }
 
@@ -276,7 +276,7 @@
   width: 66px;
   height: 46px;
   background: #00AFDB;
-  background-image: url(/dist/img/fa-check.png);
+  background-image: url(assets//img/fa-check.png);
   background-repeat: no-repeat;
   background-size: 19px;
   background-position: center center;
@@ -345,10 +345,10 @@
   margin-right: 23px; }
 
 .download-button--apple::after {
-  background-image: url(/dist/img/Combinedshape755.png); }
+  background-image: url(assets//img/Combinedshape755.png); }
 
 .download-button--android::after {
-  background-image: url(/dist/img/Combinedshape761.png); }
+  background-image: url(assets//img/Combinedshape761.png); }
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -374,7 +374,7 @@ h1, h2, h3, h4, p {
 .wrapper {
   width: 1600px;
   margin: 0 auto;
-  background-image: url(../img/bg-image.jpg);
+  background-image: url(assets/img/bg-image.jpg);
   background-repeat: no-repeat;
   background-size: cover; }
 
